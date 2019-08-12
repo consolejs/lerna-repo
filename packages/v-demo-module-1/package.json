@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "5cf1a3ee0e4bc58752f8a792924c62ac7ac7aa95",
+  "gitHead": "5cea55f6937c99a272e4c8478c24fec8519dbd15",
   "dependencies": {
     "babel": "^6.23.0",
     "react": "^16.9.0"
