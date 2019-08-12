@@ -1,0 +1,8 @@
+{
+  "工程描述文件":"",
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
