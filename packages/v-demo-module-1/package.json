@@ -1,5 +1,5 @@
 {
-  "name": "module-2",
+  "name": "module-1",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "d9063c1a051f689fed3c6478ebb88db92cd17ff8",
+  "gitHead": "bb902904802163d46985362fb0cf95008a2b5ba7",
   "dependencies": {
-    "babel": "^6.23.0"
+    "babel": "^6.23.0",
+    "react": "^16.9.0"
   }
 }
