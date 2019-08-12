@@ -1,5 +1,5 @@
 {
-  "name": "module-2",
+  "name": "v-demo-module-1",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "bb902904802163d46985362fb0cf95008a2b5ba7",
+  "gitHead": "5cf1a3ee0e4bc58752f8a792924c62ac7ac7aa95",
   "dependencies": {
     "babel": "^6.23.0"
   }
