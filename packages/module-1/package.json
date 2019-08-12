@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "d9063c1a051f689fed3c6478ebb88db92cd17ff8",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^16.9.0"
+  }
 }
